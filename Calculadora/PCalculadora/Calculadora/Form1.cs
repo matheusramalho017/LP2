@@ -69,6 +69,11 @@ namespace Calculadora
 
         }
 
+        private void CALCULADORA_Load(object sender, EventArgs e)
+        {
+
+        }
+
         private void button5_Click(object sender, EventArgs e)
         {
             if (double.TryParse(textBox1.Text, out numero1) &&
