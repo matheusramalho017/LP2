@@ -54,7 +54,7 @@ namespace Peso_Ideal
             {
                 peso_ideal = (62.7 * altura) - 44.7;
             }
-
+                
             StringBuilder str = new StringBuilder("Peso ideal: " + peso_ideal.ToString("0.00") + "Kg.");
 
             if (maskedTextBox2.Text != "")

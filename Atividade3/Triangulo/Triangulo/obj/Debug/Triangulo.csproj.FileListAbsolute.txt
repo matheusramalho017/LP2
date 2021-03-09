@@ -8,3 +8,13 @@ C:\Users\kyz\source\repos\Triangulo\Triangulo\bin\Debug\Triangulo.exe
 C:\Users\kyz\source\repos\Triangulo\Triangulo\bin\Debug\Triangulo.pdb
 C:\Users\kyz\source\repos\Triangulo\Triangulo\obj\Debug\Triangulo.exe
 C:\Users\kyz\source\repos\Triangulo\Triangulo\obj\Debug\Triangulo.pdb
+C:\Users\kyz\Documents\GitHub\LP2\Atividade3\Triangulo\Triangulo\obj\Debug\Triangulo.csprojAssemblyReference.cache
+C:\Users\kyz\Documents\GitHub\LP2\Atividade3\Triangulo\Triangulo\obj\Debug\Triangulo.Form1.resources
+C:\Users\kyz\Documents\GitHub\LP2\Atividade3\Triangulo\Triangulo\obj\Debug\Triangulo.Properties.Resources.resources
+C:\Users\kyz\Documents\GitHub\LP2\Atividade3\Triangulo\Triangulo\obj\Debug\Triangulo.csproj.GenerateResource.cache
+C:\Users\kyz\Documents\GitHub\LP2\Atividade3\Triangulo\Triangulo\obj\Debug\Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\kyz\Documents\GitHub\LP2\Atividade3\Triangulo\Triangulo\obj\Debug\Triangulo.exe
+C:\Users\kyz\Documents\GitHub\LP2\Atividade3\Triangulo\Triangulo\obj\Debug\Triangulo.pdb
+C:\Users\kyz\Documents\GitHub\LP2\Atividade3\Triangulo\Triangulo\bin\Debug\Triangulo.exe.config
+C:\Users\kyz\Documents\GitHub\LP2\Atividade3\Triangulo\Triangulo\bin\Debug\Triangulo.exe
+C:\Users\kyz\Documents\GitHub\LP2\Atividade3\Triangulo\Triangulo\bin\Debug\Triangulo.pdb

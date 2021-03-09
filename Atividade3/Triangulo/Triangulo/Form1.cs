@@ -12,7 +12,8 @@ namespace Triangulo
 {
     public partial class Form1 : Form
     {
-        int A, B, C, resultado;
+        double A, B, C, resultado;
+        bool triangulo = false;
 
         public Form1()
         {
@@ -37,18 +38,32 @@ namespace Triangulo
         private void button1_Click(object sender, EventArgs e)
         {
 
-              void checkTriangle(int A, int B, int C)
-                {
+            double.TryParse(textBox1.Text, out A);
+            if (A == null) return;
 
-                    if ((A < B + C) && (B < A + C) && (C < A + B))
+            double.TryParse(textBox2.Text, out B);
+            if (B == null) return;
+
+            double.TryParse(textBox3.Text, out C);
+            if (C == null) return;
+
+
+
+            if ((A < B + C) && (B < A + C) && (C < A + B))
                     {
 
-                        Console.Write("Formam triângulo!");
+                        triangulo = true;
+                    }
+
+                    else if (triangulo == false)
+                    {
+                         Console.Write("As medidas usadas não formam um triângulo ");
+                    }
 
                         if ((A == B) && (B == C))
                         {
 
-                            textBox4.Text = ("Triângulo Equilátero");
+                            textBox4.Text = resultado.ToString("Triângulo Equilátero");
 
                         }
                         else if ((A == B) || (B == C) || (A == C))
@@ -56,22 +71,16 @@ namespace Triangulo
 
                             textBox4.Text = resultado.ToString("Triangulo Isoceles!");
                         }
-                        else if ((A != B) && (B != C) && (C != A))
+                        else if ((A != B) && (B != C) && (C != B))
                         {
 
                             textBox4.Text = resultado.ToString("Triangulo Escaleno!");
                         }
                     }
-                    else
-                    {
-                        
-                        textBox4.Text = resultado.ToString("Os valores não formam um triângulo!");
-                    }
                 }
-                checkTriangle(A, B, C);
             }
-        }
-    } 
-}
+        
+    
+
 
 
