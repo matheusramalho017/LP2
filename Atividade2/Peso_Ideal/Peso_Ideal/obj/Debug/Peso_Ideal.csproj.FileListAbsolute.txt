@@ -1,0 +1,10 @@
+C:\Users\kyz\source\repos\Peso_Ideal\Peso_Ideal\bin\Debug\Peso_Ideal.exe.config
+C:\Users\kyz\source\repos\Peso_Ideal\Peso_Ideal\bin\Debug\Peso_Ideal.exe
+C:\Users\kyz\source\repos\Peso_Ideal\Peso_Ideal\bin\Debug\Peso_Ideal.pdb
+C:\Users\kyz\source\repos\Peso_Ideal\Peso_Ideal\obj\Debug\Peso_Ideal.csprojAssemblyReference.cache
+C:\Users\kyz\source\repos\Peso_Ideal\Peso_Ideal\obj\Debug\Peso_Ideal.Form1.resources
+C:\Users\kyz\source\repos\Peso_Ideal\Peso_Ideal\obj\Debug\Peso_Ideal.Properties.Resources.resources
+C:\Users\kyz\source\repos\Peso_Ideal\Peso_Ideal\obj\Debug\Peso_Ideal.csproj.GenerateResource.cache
+C:\Users\kyz\source\repos\Peso_Ideal\Peso_Ideal\obj\Debug\Peso_Ideal.csproj.CoreCompileInputs.cache
+C:\Users\kyz\source\repos\Peso_Ideal\Peso_Ideal\obj\Debug\Peso_Ideal.exe
+C:\Users\kyz\source\repos\Peso_Ideal\Peso_Ideal\obj\Debug\Peso_Ideal.pdb
